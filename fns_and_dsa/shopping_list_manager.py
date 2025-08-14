@@ -18,7 +18,7 @@ def main():
             shopping_list.remove()
             pass
         elif choice == '3':
-            print(shopping_list)
+            print(shopping_list[item])
             pass
         elif choice == '4':
             print("Goodbye!")
